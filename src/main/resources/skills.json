@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "java"
+  },
+  {
+    "id": "2",
+    "name": "kotlin"
+  },
+  {
+    "id": "3",
+    "name": "business analyst"
+  },
+  {
+    "id": "4",
+    "name": "system analyst"
+  },
+  {
+    "id": "5",
+    "name": "design"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "name": "Kirill",
+    "skills": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Vasya",
+    "skills": [
+      "1"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Petya",
+    "skills": [
+      "1"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Kate",
+    "skills": [
+      "4"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "John",
+    "skills": ["2","5"]
+  },
+  {
+    "id": "5",
+    "name": "Klare",
+    "skills": ["5"]
+  }
+]
+
